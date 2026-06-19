@@ -1,3 +1,8 @@
+---
+name: ppxc-find-customers
+description: Use this skill when the user wants to find customer leads from short-video comments, generate customer-discovery keywords, review lead intent, query a customer pool, or prepare outreach scripts with PPXC.
+---
+
 # PPXC Find Customers
 
 Use this skill when the user wants to find customers, discover leads, analyze short-video comments, generate search keywords, review a customer pool, or prepare outreach scripts with PPXC.
