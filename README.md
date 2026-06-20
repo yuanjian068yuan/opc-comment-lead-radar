@@ -19,6 +19,8 @@ Add this MCP server configuration to your MCP-compatible host:
 }
 ```
 
+Your AI host will download the MCP package automatically through `npx` on first use. Some hosts require a one-time **Trust / Enable** confirmation after the config is added; approve that connector, then ask the assistant to check login status.
+
 Official setup page: https://opc1.me/download/mcp
 
 ## What It Does
@@ -41,7 +43,7 @@ Official setup page: https://opc1.me/download/mcp
 ## Suggested Prompt
 
 ```text
-Find customer leads for my product.
+检查登录状态，然后带我用 OPC 评论线索雷达找一批客户。
 ```
 
 The MCP can guide product selection, keyword generation, lead search, customer-pool review, outreach-script creation, and diagnostics export.
