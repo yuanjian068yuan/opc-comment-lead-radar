@@ -1,0 +1,6 @@
+interface:
+  display_name: "OPC 评论线索雷达"
+  short_description: "先试用扫描评论线索，再解锁和保存完整客户名单"
+  default_prompt: "使用 $ppxc-find-customers 先根据我的产品描述试搜一批评论线索。"
+policy:
+  allow_implicit_invocation: true
