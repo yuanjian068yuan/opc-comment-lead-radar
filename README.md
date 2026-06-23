@@ -35,8 +35,9 @@ Agent-readable guide: https://github.com/yuanjian068yuan/opc-comment-lead-radar/
 - Uses a product or service description directly; a saved product list is optional.
 - Suggests customer-discovery keywords.
 - Searches Douyin, Xiaohongshu, and Kuaishou public comments for buying signals.
-- Reports inspected links, comment counts, and workflow progress when the MCP returns trace data.
+- Creates an online battle report first, with inspected links, comment counts, workflow progress, and trace data.
 - Shows the first complete leads, then unlocks or saves the full list through the OPC customer pool.
+- Supports async keyword runs and batch search plans for longer WorkBuddy-style tasks.
 - Turns leads into outreach scripts and next-step actions.
 - Exports diagnostics for support and review.
 
