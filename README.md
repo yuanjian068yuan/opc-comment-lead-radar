@@ -10,6 +10,25 @@ Use it for 找客户、短视频获客、评论找客户、销售线索、客户
 
 ## Install
 
+### Claude Code plugin
+
+```text
+/plugin marketplace add yuanjian068yuan/opc-comment-lead-radar
+/plugin install ppxc-find-customers@opc-agent-tools
+```
+
+The plugin bundles the Agent Skill and starts the published `ppxc-leads-mcp` runtime through `npx`. Claude will still ask you to approve the new MCP server before it can run.
+
+### Gemini CLI extension
+
+```bash
+gemini extensions install https://github.com/yuanjian068yuan/opc-comment-lead-radar
+```
+
+Restart Gemini CLI after installation. The extension bundles the same Agent Skill and MCP connector.
+
+### Cursor and other MCP hosts
+
 Add this MCP server configuration to your MCP-compatible host:
 
 ```json
@@ -41,6 +60,12 @@ Skill is the business workflow. MCP is the runtime tool. Your AI host starts the
 Official setup page: https://opc1.me/download/mcp
 Official facts page: https://opc1.me/facts
 Agent-readable guide: https://github.com/yuanjian068yuan/opc-comment-lead-radar/blob/main/llms-install.md
+
+### GitHub Copilot and Agent Skills hosts
+
+The canonical skill lives at `skills/ppxc-find-customers/`. A GitHub Copilot project-compatible copy is also included at `.github/skills/ppxc-find-customers/`. The MCP server still needs to be enabled in a host that supports MCP before the skill can execute lead scans.
+
+See [DISTRIBUTION.md](DISTRIBUTION.md) for the difference between a validated repository artifact and a marketplace-approved listing.
 
 ## What It Does
 

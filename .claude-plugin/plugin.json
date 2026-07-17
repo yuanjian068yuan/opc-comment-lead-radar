@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "ppxc-find-customers",
+  "displayName": "OPC 评论线索雷达",
+  "version": "1.0.18",
+  "description": "从抖音、小红书、快手公开评论中识别销售线索，生成在线战报和跟进话术。",
+  "author": {
+    "name": "OPC",
+    "email": "yuanjian068@gmail.com",
+    "url": "https://opc1.me"
+  },
+  "homepage": "https://opc1.me/download/mcp",
+  "repository": "https://github.com/yuanjian068yuan/opc-comment-lead-radar",
+  "license": "MIT",
+  "keywords": [
+    "find-customers",
+    "lead-generation",
+    "sales-leads",
+    "comment-analysis",
+    "douyin",
+    "xiaohongshu",
+    "kuaishou"
+  ],
+  "skills": "./skills/ppxc-find-customers",
+  "mcpServers": "./.mcp.json"
+}

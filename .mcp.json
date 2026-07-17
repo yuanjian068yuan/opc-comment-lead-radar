@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "ppxc-find-customers": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "ppxc-leads-mcp"
+      ]
+    }
+  }
+}
