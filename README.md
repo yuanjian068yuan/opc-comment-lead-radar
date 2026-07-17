@@ -1,10 +1,10 @@
-# OPC 评论线索雷达
+# 找客户 · Find Customers｜销售线索与评论区获客
 
 Turn short-video comments into customer leads, keyword ideas, and outreach scripts.
 
-OPC 评论线索雷达是一款找客户 Agent Skill / MCP 工具，帮助商家从抖音、小红书、快手公开评论中识别购买意向、销售线索和可跟进客户名单。
+找客户 · Find Customers｜销售线索与评论区获客（品牌别名：OPC 评论线索雷达）是一款 Agent Skill / MCP 工具，帮助商家从抖音、小红书、快手公开评论中识别购买意向、销售线索和可跟进客户名单。
 
-OPC Comment Lead Radar is an Agent Skill and MCP tool for lead generation from short-video comments, helping teams discover customer intent and sales leads from Douyin, Xiaohongshu, and Kuaishou.
+找客户 · Find Customers｜销售线索与评论区获客 (brand alias: OPC Comment Lead Radar) is an Agent Skill and MCP tool for lead generation from short-video comments, helping teams discover customer intent and sales leads from Douyin, Xiaohongshu, and Kuaishou.
 
 Use it for 找客户、短视频获客、评论找客户、销售线索、客户线索挖掘、小红书获客、抖音获客、快手获客、Agent Skill 找客户、AI 销售线索、lead generation from comments, customer discovery skill, and short video lead generation.
 
@@ -110,7 +110,7 @@ ppxc-leads-mcp
 
 ## Privacy
 
-Use OPC 评论线索雷达 only with public comment data and data you are authorized to process. Do not paste passwords, payment data, recovery codes, API keys, private customer records, or other secrets into prompts.
+Use 找客户 · Find Customers｜销售线索与评论区获客 only with public comment data and data you are authorized to process. Do not paste passwords, payment data, recovery codes, API keys, private customer records, or other secrets into prompts.
 
 ## Support
 

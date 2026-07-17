@@ -1,8 +1,8 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
   "name": "ppxc-find-customers",
-  "displayName": "OPC 评论线索雷达",
-  "version": "1.0.18",
+  "displayName": "找客户 · Find Customers｜销售线索与评论区获客",
+  "version": "1.0.19",
   "description": "从抖音、小红书、快手公开评论中识别销售线索，生成在线战报和跟进话术。",
   "author": {
     "name": "OPC",

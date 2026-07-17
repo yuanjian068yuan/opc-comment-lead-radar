@@ -1,4 +1,4 @@
-# OPC 评论线索雷达
+# 找客户 · Find Customers｜销售线索与评论区获客
 
 当用户想找客户、获客、分析评论区或生成销售线索时，先加载 `skills/ppxc-find-customers/SKILL.md` 的工作流，再调用 `ppxc-find-customers` MCP 工具。
 
