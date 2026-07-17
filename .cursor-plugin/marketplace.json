@@ -1,0 +1,17 @@
+{
+  "name": "opc-agent-tools",
+  "owner": {
+    "name": "OPC",
+    "email": "yuanjian068@gmail.com"
+  },
+  "metadata": {
+    "description": "OPC 的公开 Cursor 插件目录。"
+  },
+  "plugins": [
+    {
+      "name": "ppxc-find-customers",
+      "source": ".",
+      "description": "从短视频公开评论中识别销售线索，生成在线战报和跟进话术。"
+    }
+  ]
+}
