@@ -1,12 +1,12 @@
-# OPC 评论线索雷达 Agent Setup Guide
+# 找客户 · Find Customers｜销售线索与评论区获客 Agent Setup Guide
 
-Use this guide when an agent or MCP host needs to enable OPC 评论线索雷达.
+Use this guide when an agent or MCP host needs to enable 找客户 · Find Customers｜销售线索与评论区获客.
 
 ## What This Is
 
 - Skill is the business workflow: it tells the agent how to run a trial-first scan, collect product context, avoid requiring a product list for new users, show the online battle report first, report inspected links and comment counts, and only ask for OPC login when the user wants to save, unlock, or review the full list.
 - MCP is the runtime tool: it gives the host the actual tools for dynamic workflow lookup, async keyword runs, batch search plans, platform login when needed, keyword generation, comment analysis, customer-pool query, diagnostics, and transparent progress reporting.
-- The public product name is OPC 评论线索雷达. The technical MCP package name remains `ppxc-leads-mcp`. The technical Skill name remains `ppxc-find-customers`.
+- The public product name is 找客户 · Find Customers｜销售线索与评论区获客. OPC 评论线索雷达 remains a brand alias. The technical MCP package name remains `ppxc-leads-mcp`. The technical Skill name remains `ppxc-find-customers`.
 
 ## MCP Connector
 

@@ -1,7 +1,7 @@
 {
   "name": "ppxc-find-customers",
-  "displayName": "OPC 评论线索雷达",
-  "description": "OPC 评论线索雷达 / OPC评论线索雷达: turn short-video comments into customer leads, keyword ideas, and outreach scripts.",
+  "displayName": "找客户 · Find Customers｜销售线索与评论区获客",
+  "description": "找客户 · Find Customers｜销售线索与评论区获客（OPC 评论线索雷达）: turn short-video comments into customer leads, keyword ideas, and outreach scripts.",
   "type": "stdio",
   "command": "npx",
   "args": ["-y", "ppxc-leads-mcp"],
@@ -19,6 +19,7 @@
     "lead generation",
     "customer discovery",
     "OPC 评论线索雷达",
+    "找客户 · Find Customers｜销售线索与评论区获客",
     "OPC评论线索雷达",
     "评论线索雷达",
     "线索雷达",

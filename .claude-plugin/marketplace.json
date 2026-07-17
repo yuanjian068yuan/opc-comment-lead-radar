@@ -10,9 +10,9 @@
     {
       "name": "ppxc-find-customers",
       "source": "./",
-      "displayName": "OPC 评论线索雷达",
+      "displayName": "找客户 · Find Customers｜销售线索与评论区获客",
       "description": "从短视频公开评论中识别销售线索，生成在线战报和跟进话术。",
-      "version": "1.0.18",
+      "version": "1.0.19",
       "author": {
         "name": "OPC",
         "email": "yuanjian068@gmail.com"
