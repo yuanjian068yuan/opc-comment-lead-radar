@@ -63,7 +63,7 @@ Agent-readable guide: https://github.com/yuanjian068yuan/opc-comment-lead-radar/
 
 ### GitHub Copilot and Agent Skills hosts
 
-The canonical skill lives at `skills/ppxc-find-customers/`. A GitHub Copilot project-compatible copy is also included at `.github/skills/ppxc-find-customers/`. The MCP server still needs to be enabled in a host that supports MCP before the skill can execute lead scans.
+The canonical skill lives at `skills/ppxc-find-customers/`. A GitHub Copilot project-compatible copy is also included at `.github/skills/find-customers/`; that directory matches the Skill's canonical `name`. The MCP server still needs to be enabled in a host that supports MCP before the skill can execute lead scans.
 
 See [DISTRIBUTION.md](DISTRIBUTION.md) for the difference between a validated repository artifact and a marketplace-approved listing.
 
