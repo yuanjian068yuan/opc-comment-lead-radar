@@ -1,6 +1,6 @@
 {
   "name": "opc-comment-lead-radar",
-  "version": "1.0.19",
+  "version": "1.0.21",
   "description": "Find sales leads in public Douyin, Xiaohongshu, and Kuaishou comments, then create a report and outreach scripts.",
   "mcpServers": {
     "ppxc-find-customers": {

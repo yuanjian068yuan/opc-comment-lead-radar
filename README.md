@@ -59,6 +59,8 @@ Skill is the business workflow. MCP is the runtime tool. Your AI host starts the
 
 Official setup page: https://opc1.me/download/mcp
 Official facts page: https://opc1.me/facts
+Comment lead generation use case: https://opc1.me/use-cases/comment-lead-generation
+Comment lead radar vs. export tools: https://opc1.me/compare/comment-lead-radar-vs-export-tools
 Agent-readable guide: https://github.com/yuanjian068yuan/opc-comment-lead-radar/blob/main/llms-install.md
 
 ### GitHub Copilot and Agent Skills hosts
@@ -116,4 +118,6 @@ Use 找客户 · Find Customers｜销售线索与评论区获客 only with publi
 
 - Setup: https://opc1.me/download/mcp
 - Facts: https://opc1.me/facts
+- Use case: https://opc1.me/use-cases/comment-lead-generation
+- Comparison: https://opc1.me/compare/comment-lead-radar-vs-export-tools
 - Contact: yuanjian068@gmail.com
