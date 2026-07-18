@@ -1,6 +1,6 @@
 # Distribution status
 
-This repository is the public distribution surface for 找客户 · Find Customers｜销售线索与评论区获客 (brand alias: OPC 评论线索雷达). The runtime package is `ppxc-leads-mcp`; the skill and plugin release is `1.0.21`.
+This repository is the public distribution surface for 找客户 · Find Customers｜销售线索与评论区获客 (brand alias: OPC 评论线索雷达). The runtime package is `ppxc-leads-mcp`; the skill and plugin release is `1.0.22`.
 
 | Surface | Artifact in this repository | Current state |
 |---|---|---|

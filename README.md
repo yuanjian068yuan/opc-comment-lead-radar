@@ -57,6 +57,14 @@ On Windows 10/11, use this connector form when the host cannot launch `npx` dire
 
 Skill is the business workflow. MCP is the runtime tool. Your AI host starts the MCP package through `npx` when the connector is enabled. Some hosts require a one-time **Trust / Enable** confirmation after the config is added; approve that connector, then ask the assistant to run a trial lead scan.
 
+When the MCP was installed first, ask the assistant:
+
+```text
+检查并安装当前智能体配套的找客户 Skill。先只读检查；需要写入时先告诉我安装目录，等我确认后再安装。
+```
+
+The MCP calls `setup_companion_skill(action=status)` without writing anything. For supported local hosts, it can install the bundled Skill only after the user approves the displayed fixed directory. It does not use npm `postinstall` or silently modify the machine.
+
 Official setup page: https://opc1.me/download/mcp
 Official facts page: https://opc1.me/facts
 Comment lead generation use case: https://opc1.me/use-cases/comment-lead-generation
@@ -106,9 +114,9 @@ skills/ppxc-find-customers/SKILL.md
 
 ## Package
 
-```text
-ppxc-leads-mcp
-```
+- npm runtime: https://www.npmjs.com/package/ppxc-leads-mcp
+- Smithery MCP: https://smithery.ai/servers/yuanjian068/opc-comment-lead-radar
+- ModelScope MCP: https://modelscope.cn/mcp/servers/yuanshuai714/ppxc-leads-mcp
 
 ## Privacy
 

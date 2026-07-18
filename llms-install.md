@@ -36,6 +36,20 @@ Windows 10/11 connector form:
 
 The host starts this MCP tool when the connector is enabled. If the host asks for **Trust / Enable**, treat it as a normal safety confirmation for this connector.
 
+## MCP-first Companion Skill Setup
+
+If the MCP connector is already available but the companion Skill is missing, call `setup_companion_skill` with `action=status` first. This check is read-only.
+
+For Codex, Cursor, Claude, Agent Skills, and WorkBuddy local hosts:
+
+1. Read the returned target state and fixed Skill directory.
+2. If the Skill is missing or outdated, tell the user exactly which directory would be written.
+3. Wait for explicit user approval.
+4. Only then call `action=install`, pass the current host as `target`, and set `confirm=true`.
+5. Report the verification result and ask the user to refresh or restart the host.
+
+Never use npm `postinstall`, never write an arbitrary path, and never install into multiple detected hosts. If the host has no writable local Skill directory, use the public Skill marketplace/plugin entry instead.
+
 ## First Use
 
 1. Start or refresh the MCP host after adding the server config.

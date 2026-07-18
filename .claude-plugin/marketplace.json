@@ -12,7 +12,7 @@
       "source": "./",
       "displayName": "找客户 · Find Customers｜销售线索与评论区获客",
       "description": "从短视频公开评论中识别销售线索，生成在线战报和跟进话术。",
-      "version": "1.0.21",
+      "version": "1.0.22",
       "author": {
         "name": "OPC",
         "email": "yuanjian068@gmail.com"
