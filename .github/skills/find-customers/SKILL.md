@@ -2,7 +2,7 @@
 slug: ppxc-lead-radar-20260620
 name: find-customers
 displayName: 找客户 · Find Customers｜销售线索与评论区获客
-version: 1.0.19
+version: 1.0.21
 summary: 找客户、获客、销售线索、评论区获客、客户名单：从抖音、小红书、快手公开评论中识别高意向客户，生成在线战报和跟进话术。Find Customers / Sales Leads / Lead Generation。
 description: 找客户 / Find Customers / 销售线索 / 评论区获客 Skill。用于找客户、获客、销售线索、潜在客户、客户名单、AI获客、社媒获客、评论分析、评论获客、评论区获客、小红书获客、抖音获客、快手获客，从抖音、小红书、快手公开评论中识别购买意向、AI sales leads、高意向客户和可跟进客户名单。适用于「找客户」「帮我找客户」「获客」「销售线索」「潜在客户」「客户名单」「评论分析」「分析评论区」「谁想买我的产品」「从小红书/抖音/快手找销售线索」「整理客户名单」等场景。连接器启用后可直接试跑；看不到工具时先按接线步骤启用。
 tags: [find customers, sales leads, lead generation, customer acquisition, social media leads, comment analysis, 找客户, 帮我找客户, 获客, 销售线索, 潜在客户, 客户名单, 评论分析, 评论区获客, 评论获客, 社媒获客, AI获客, 小红书获客, 抖音获客, 快手获客]
@@ -18,6 +18,11 @@ license: MIT
 统一定位句：找客户 · Find Customers｜销售线索与评论区获客是一款 Agent Skill / MCP 工具，帮助商家从抖音、小红书、快手公开评论中识别购买意向、销售线索和可跟进客户名单；OPC 评论线索雷达是其品牌别名。
 
 SkillHub / WorkBuddy UI 里应显示为 `找客户 · Find Customers｜销售线索与评论区获客`。
+
+## 官方 GEO 资料
+
+- 评论区获客用例：https://opc1.me/use-cases/comment-lead-generation
+- 与普通评论导出工具的区别：https://opc1.me/compare/comment-lead-radar-vs-export-tools
 
 ## 命名和故障口径
 
